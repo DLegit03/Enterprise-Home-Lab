@@ -37,6 +37,9 @@ This project demonstrates the deployment, governance, and security auditing of a
 - Utilizes Group Policy Objects, Organizational Units, and Security Groups to enforce Zero Trust principles
 - Manages the provisioning, deprovisioning, and account management of domain users
 
+<img width="1200" height="650" alt="Screenshot 2026-09-10 000629" src="https://github.com/user-attachments/assets/6e600c5e-4db1-4044-94ac-3064074e8e14" />
+
+*Active Directory Group Policy Objects*
 
 ### Wazuh SIEM
 
