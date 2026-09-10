@@ -8,7 +8,8 @@ This project demonstrates the deployment, governance, and security auditing of a
 
 ### Network Topology
 
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/bce179aa-c6cf-40da-9f08-19dbe44622fd" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/dd534845-f11c-4ee7-b62b-dbf1bc6661c5" />
+
 
 *Home lab network*
 
