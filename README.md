@@ -21,11 +21,11 @@ This project demonstrates the deployment, governance, and security auditing of a
 - Controls network traffic with firewall policies and rules, blocking unauthorized inbound connections and prohibiting guest network intervisibility
 - Provides remote vpn access to the network by combining l2tp and IPsec
 
-<img width="1503" height="751" alt="Screenshot 2026-09-10 001532" src="https://github.com/user-attachments/assets/8e56e46a-15e0-4808-ac34-22d349030667" />
+<img width="1400" height="650" alt="Screenshot 2026-09-10 001532" src="https://github.com/user-attachments/assets/8e56e46a-15e0-4808-ac34-22d349030667" />
 
 *EdgeRouter Dashboard*
 
-<img width="1470" height="553" alt="Screenshot 2026-09-10 001814" src="https://github.com/user-attachments/assets/6195d83d-9b4b-4735-8f5c-91906e5351e5" />
+<img width="1400" height="650" alt="Screenshot 2026-09-10 001814" src="https://github.com/user-attachments/assets/6195d83d-9b4b-4735-8f5c-91906e5351e5" />
 
 *EdgeRouter inbound firewall rules*
 
