@@ -46,6 +46,16 @@ This project demonstrates the deployment, governance, and security auditing of a
 - Provides lab visibility by aggregating logs from all parts of the network onto a central platform
 - Houses details related to suspicious network activity, endpoint vulnerabilities, device hardening, and continuous compliance to multiple frameworks
 
+<img width="1500" height="750" alt="Screenshot 2026-09-10 000831" src="https://github.com/user-attachments/assets/ec8f8fa4-fa3f-4db0-86a1-c665df0e7129" />
+
+*Wazuh Active Directory agent dashboard*
+
+<img width="1200" height="725" alt="Screenshot 2026-09-10 001049" src="https://github.com/user-attachments/assets/fc3c44f9-3db6-4419-a4c1-aa6afd5be816" />
+
+*Wazuh parsed logs*
+
+
+
 
 ## Key Takeaways
 
